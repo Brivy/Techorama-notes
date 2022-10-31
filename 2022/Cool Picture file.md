@@ -1,0 +1,17 @@
+# Cool pictures
+
+![Cool Picture](Pictures/PXL_20221011_065808564.jpg)
+![Cool Picture](Pictures/PXL_20221011_080442037.jpg)
+![Cool Picture](Pictures/PXL_20221011_083313179.jpg)
+![Cool Picture](Pictures/PXL_20221011_090138976.jpg)
+![Cool Picture](Pictures/PXL_20221011_101129682.jpg)
+![Cool Picture](Pictures/PXL_20221011_102653781.jpg)
+![Cool Picture](Pictures/PXL_20221011_140051586.jpg)
+![Cool Picture](Pictures/PXL_20221011_160947210.jpg)
+![Cool Picture](Pictures/PXL_20221011_161738492.jpg)
+![Cool Picture](Pictures/PXL_20221012_102857374.jpg)
+![Cool Picture](Pictures/PXL_20221012_145936267.jpg)
+![Cool Picture](Pictures/PXL_20221012_151919660.jpg)
+![Cool Picture](Pictures/PXL_20221012_152017818.jpg)
+![Cool Picture](Pictures/PXL_20221012_152319611.jpg)
+![Cool Picture](Pictures/PXL_20221012_152829472.jpg)
